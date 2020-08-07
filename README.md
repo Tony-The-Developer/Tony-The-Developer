@@ -12,9 +12,9 @@
 
 <br>
 <br>
-Hi, I'm Tony Ashvanian, a passionate self-taught full stack developer from Los Angles.
+Hi, I'm Tony Ashvanian, a passionate self-taught full stack developer from Los Angeles.
 
-
+<br>
 - 🔭 I’m currently working on kubernetes Cluster's
 - 🌱 I’m currently learning C/C++
 - 🤔 I’m looking for help with Kubernetes

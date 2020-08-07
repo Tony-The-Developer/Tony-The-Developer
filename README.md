@@ -15,14 +15,12 @@
 Hi, I'm Tony Ashvanian, a passionate self-taught full stack developer from Los Angles.
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything [here](email.)
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on kubernetes Cluster's
+- 🌱 I’m currently learning C/C++
+- 🤔 I’m looking for help with Kubernetes
+- 💬 Ask me about anything [here](mailto:hire@tonythedeveloper.com)
+- 📫 How to reach me: tony@tonythedeveloper.com
+- ⚡ Fun fact: My favorite php framework is Laravel.
 
 **Languages and Tools:**  
 
@@ -38,14 +36,4 @@ Hi, I'm Tony Ashvanian, a passionate self-taught full stack developer from Los A
 
 <a href="https://github.com/Tony-The-Developer">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tony-The-Developer&show_icons=true&include_all_commits=true&theme=radical" alt="Tony's github stats" />
-</a>
-<a href="https://github.com/Tony-The-Developer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tony-The-Developer&layout=compact&theme=radical" />
-</a>
-
-<a href="https://github.com/Tony-The-Developer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tony-The-Developer&repo=github-readme-stats" />
-</a>    
-<a href="https://github.com/Tony-The-Developer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Tony-The-Developer&repo=anuraghazra.github.io&theme=radical" />
 </a>

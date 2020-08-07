@@ -1,5 +1,15 @@
 ### Hi there, I'm [Tony!](https://tonythedeveloper.com) 👋
 
+<a href="https://github.com/Tony-The-Developer">
+  <img align="left" alt="Tony's Github | Github" width="20px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />
+</a>
+<a href="https://twitter.com/anuraghazru">
+  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/VK4k3Br">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+
 <!--
 **Tony-The-Developer/Tony-The-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

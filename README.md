@@ -44,7 +44,7 @@ Hi, I'm Tony Ashvanian, a passionate self-taught full stack developer from Los A
 </a>
 
 <a href="https://github.com/Tony-The-Developer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Tony-The-Developer&repo=github-readme-stats&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tony-The-Developer&repo=github-readme-stats" />
 </a>    
 <a href="https://github.com/Tony-The-Developer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Tony-The-Developer&repo=anuraghazra.github.io&theme=radical" />

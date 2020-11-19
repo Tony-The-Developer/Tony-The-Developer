@@ -17,7 +17,7 @@ Hi, I'm Tony Ashvanian, a passionate self-taught full stack developer from Los A
 
 - 🔭 I’m currently working on kubernetes Cluster's
 - 🌱 I’m currently learning C/C++
-- 🤔 I’m looking for help with Kubernetes
+- 🤔 I’m looking for help with Javascript and React
 - 💬 Ask me about anything [here](mailto:hire@tonythedeveloper.com)
 - 📫 How to reach me: tony@tonythedeveloper.com
 - ⚡ Fun fact: My favorite php framework is Laravel.

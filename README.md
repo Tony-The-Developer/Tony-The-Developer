@@ -14,6 +14,33 @@
 <br>
 Hi, I'm Tony Ashvanian, a passionate self-taught full stack developer from Los Angeles.
 
+### 💪 Skills
+↪️ Wordpress (<i>Experience: 6 years</i>)<br>
+↪️ PHP (<i>Experience: 4 years</i>)<br>
+↪️ Laravel Framework (<i>Experience: 4 years</i>)<br>
+↪️ jQuery (<i>Experience: 2 months</i>)<br>
+↪️ JavaScript (<i>Experience: 4 months</i>)<br>
+↪️ C++ (<i>Experience: 1 month</i>)<br>
+↪️ MySQL (<i>Experience: Enough to use on projects as required</i>)<br>
+↪️ SQLite3 (<i>Experience: Enough to use on projects as required</i>)<br>
+↪️ MongoDB (<i>Experience: Enough to use on projects as required</i>)<br>
+
+### 💻 Operating System Experience
+↪️ Windows<br>
+↪️ Linux<br>
+↪️ Mac OS<br>
+
+### 📨 Reach Out to Me
+↪️ <a href="https://linkedin.com/in/tony-ash-410a00206/" target="_blank">LinkedIn</a><br>
+↪️ <a href="https://www.twitter.com/tony_developer" target="_blank">Twitter</a><br>
+↪️ <a href="mailto:tony@tonythedeveloper.com" target="_blank">Email Me: tony@tonythedeveloper.com</a><br>
+
+
+### 🌐 My Website
+↪️ <a href="https://tonyashvanian.com" target="_blank">tonyashvanian.com</a><br>
+
+
+### More Info 
 
 - 🔭 I’m currently working on kubernetes Cluster's
 - 🌱 I’m currently learning React/Node.Js

@@ -14,6 +14,7 @@
 <br>
 Hi, I'm Tony Ashvanian, a passionate self-taught full stack developer from Los Angeles.
 
+For my main git profile go to (https://gitlab.tonythedeveloper.com)
 ### 💪 Skills
 ↪️ Wordpress (<i>Experience: 6 years</i>)<br>
 ↪️ PHP (<i>Experience: 4 years</i>)<br>

@@ -1,20 +1,14 @@
 ### Hi there, I'm [Tony!](https://tonythedeveloper.com) 👋
 
-<a href="https://github.com/Tony-The-Developer">
-  <img align="left" alt="Tony | Github" width="20px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />
-</a>
 <a href="https://gitlab.com/Tony-The-Developer">
   <img align="left" alt="tony| Gitlab" width="21px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />
-</a>
-<a href="https://discord.gg/p5ewJ5r">
-  <img align="left" alt="Tony's's Discord" width="21px" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" />
 </a>
 
 <br>
 <br>
 Hi, I'm Tony Ashvanian, a passionate self-taught full stack developer from Los Angeles.
 
-For my main git profile go to (https://gitlab.tonythedeveloper.com)
+For my main git profile go to (https://gitlab.tonythedeveloper.cloud)
 ### 💪 Skills
 ↪️ Wordpress (<i>Experience: 6 years</i>)<br>
 ↪️ PHP (<i>Experience: 4 years</i>)<br>

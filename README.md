@@ -6,11 +6,16 @@
 
 <br>
 <br>
-Hi, I'm Tony Ashvanian, a passionate self-taught full stack developer from Los Angeles.
+Hi, I'm Tony Ashvanian, a passionate self-taught network engineer from Los Angeles.
 
 For my main git profile go to (https://gitlab.tonythedeveloper.cloud)
 ### 💪 Skills
-↪️ Wordpress (<i>Experience: 6 years</i>)<br>
+↪️ Cisco Firewall (<i>Experience: 4 years</i>)<br>
+↪️ Fortinet Firewall (<i>Experience: 4 year</i>)<br>
+↪️ Meraki Firewall (<i>Experience: 1 year</i>)<br>
+↪️ Palo Alto Firewall (<i>Experience: 1 years</i>)<br>
+↪️ Sonicwall Firewall (<i>Experience: 7 year</i>)<br>
+↪️ WordPress (<i>Experience: 6 years</i>)<br>
 ↪️ PHP (<i>Experience: 4 years</i>)<br>
 ↪️ Laravel Framework (<i>Experience: 4 years</i>)<br>
 ↪️ jQuery (<i>Experience: 2 months</i>)<br>
@@ -37,12 +42,8 @@ For my main git profile go to (https://gitlab.tonythedeveloper.cloud)
 
 ### More Info 
 
-- 🔭 I’m currently working on kubernetes Cluster's
-- 🌱 I’m currently learning React/Node.Js
-- 🤔 I’m looking for help with Javascript and React
-- 💬 Ask me about anything [here](mailto:hire@tonythedeveloper.com)
-- 📫 How to reach me: tony@tonythedeveloper.com
-- ⚡ Fun fact: My favorite ide is webstorm.
+- - 💬 Ask me about anything [here](mailto:info@tonythedeveloper.com)
+- 📫 How to reach me: info@tonythedeveloper.com
 
 **Languages and Tools:**  
 

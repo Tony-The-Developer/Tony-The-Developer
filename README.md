@@ -37,7 +37,7 @@ For my main git profile go to (https://gitlab.tonythedeveloper.cloud)
 
 
 ### 🌐 My Website
-↪️ <a href="https://tonyashvanian.com" target="_blank">tonyashvanian.com</a><br>
+↪️ <a href="https://tonythedeveloper.com" target="_blank">tonythedeveloper.com</a><br>
 
 
 ### More Info 

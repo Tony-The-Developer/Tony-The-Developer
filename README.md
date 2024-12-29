@@ -1,62 +1,67 @@
 ### Hi there, I'm [Tony!](https://tonythedeveloper.com) 👋
 
 <a href="https://gitlab.com/Tony-The-Developer">
-  <img align="left" alt="tony| Gitlab" width="21px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />
+  <img align="left" alt="Tony | GitLab" width="21px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />
 </a>
 
 <br>
 <br>
-Hi, I'm Tony Ashvanian, a passionate self-taught network engineer from Los Angeles.
 
-For my main git profile go to (https://gitlab.tonythedeveloper.cloud)
-### 💪 Skills
-↪️ Cisco Firewall (<i>Experience: 4 years</i>)<br>
-↪️ Fortinet Firewall (<i>Experience: 4 year</i>)<br>
-↪️ Meraki Firewall (<i>Experience: 1 year</i>)<br>
-↪️ Palo Alto Firewall (<i>Experience: 1 years</i>)<br>
-↪️ Sonicwall Firewall (<i>Experience: 7 year</i>)<br>
-↪️ WordPress (<i>Experience: 6 years</i>)<br>
-↪️ PHP (<i>Experience: 4 years</i>)<br>
-↪️ Laravel Framework (<i>Experience: 4 years</i>)<br>
-↪️ jQuery (<i>Experience: 2 months</i>)<br>
-↪️ JavaScript (<i>Experience: 4 months</i>)<br>
-↪️ C++ (<i>Experience: 1 month</i>)<br>
-↪️ MySQL (<i>Experience: Enough to use on projects as required</i>)<br>
-↪️ SQLite3 (<i>Experience: Enough to use on projects as required</i>)<br>
-↪️ MongoDB (<i>Experience: Enough to use on projects as required</i>)<br>
+I'm **Tony Ashvanian**, an accomplished network engineer, infrastructure architect, and software developer with extensive experience in designing and managing complex datacenter environments and building robust software solutions. Based in Los Angeles, I specialize in advanced networking protocols, virtualization technologies, and full-stack development.
 
-### 💻 Operating System Experience
-↪️ Windows<br>
-↪️ Linux<br>
-↪️ Mac OS<br>
+For my main Git profile, visit [my GitLab](https://gitlab.tonythedeveloper.cloud).
 
-### 📨 Reach Out to Me
-↪️ <a href="https://linkedin.com/in/tony-ash-410a00206/" target="_blank">LinkedIn</a><br>
-↪️ <a href="https://www.twitter.com/tony_developer" target="_blank">Twitter</a><br>
-↪️ <a href="mailto:tony@tonythedeveloper.com" target="_blank">Email Me: tony@tonythedeveloper.com</a><br>
+---
 
+### 🌟 Expertise
+#### **Networking and Infrastructure**
+- **Protocols**: Mastery of BGP, OSPF, and MPLS for efficient and resilient network architectures.  
+- **Enterprise Networking**: Expertise with Cisco Nexus, Juniper MX Series, and Arista switches for high-performance datacenters.  
+- **Software-Defined Networking (SDN)**: Proficient in VMware NSX, Cisco ACI, and OpenStack Neutron for agile and scalable solutions.  
+- **Virtualization and Orchestration**: Advanced knowledge of VMware vSphere, Kubernetes, Docker, and OpenShift.  
+- **Firewalls and Security**: Proficient with Cisco ASA, Fortinet, SonicWall, Palo Alto, and Meraki firewalls.  
+
+#### **Software Development**
+- **Languages and Frameworks**: PHP (4 years), Laravel (4 years), Java, and JavaScript.  
+- **Databases**: MySQL, PostgreSQL, SQLite3, and MongoDB for relational and non-relational database management.  
+- **Full-Stack Development**: Building scalable applications using modern backend and frontend technologies.  
+
+---
+
+### 💻 Operating Systems
+- **Windows Server**: Administration and Active Directory management.  
+- **Linux**: Proficient in RHEL, Ubuntu, and CentOS for server deployment and troubleshooting.  
+- **Mac OS**: Familiarity with enterprise integration and end-user support.  
+
+---
+
+### 🚀 Solutions I Deliver
+- **Datacenter Networking**: Architected resilient and high-performance datacenter networks with advanced routing protocols and SDN solutions.  
+- **Hybrid Cloud Integration**: Seamlessly connecting on-premises datacenters to public cloud environments like AWS, Azure, and GCP.  
+- **Infrastructure Automation**: Implementation of Ansible, Terraform, and scripting for automated infrastructure provisioning.  
+- **Software Solutions**: Developing full-stack web applications using PHP, Laravel, and modern databases.  
+- **Database Management**: Optimized relational and non-relational databases for scalable application performance.  
+
+---
 
 ### 🌐 My Website
-↪️ <a href="https://tonythedeveloper.com" target="_blank">tonythedeveloper.com</a><br>
+[tonythedeveloper.com](https://tonythedeveloper.com)
 
+---
 
-### More Info 
+### 📨 Reach Out to Me
+- **LinkedIn**: [Tony Ashvanian](https://linkedin.com/in/tony-ash-410a00206/)  
+- **Twitter**: [@tony_developer](https://www.twitter.com/tony_developer)  
+- **Email**: [tony@tonythedeveloper.com](mailto:tony@tonythedeveloper.com)  
 
-- - 💬 Ask me about anything [here](mailto:info@tonythedeveloper.com)
-- 📫 How to reach me: info@tonythedeveloper.com
+---
 
-**Languages and Tools:**  
+### 💬 More Info
+- Have a question? Feel free to [email me](mailto:info@tonythedeveloper.com).  
+- 📫 Reach me at: [info@tonythedeveloper.com](mailto:info@tonythedeveloper.com)  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-
-
-
+---
 
 <a href="https://github.com/Tony-The-Developer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tony-The-Developer&show_icons=true&include_all_commits=true&theme=radical" alt="Tony's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tony-The-Developer&show_icons=true&include_all_commits=true&theme=radical" alt="Tony's GitHub stats" />
 </a>

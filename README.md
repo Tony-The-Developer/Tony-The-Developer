@@ -52,7 +52,8 @@ For my main Git profile, visit [my GitLab](https://gitlab.tonythedeveloper.cloud
 ### 📨 Reach Out to Me
 - **LinkedIn**: [Tony Ashvanian](https://www.linkedin.com/in/tonyashvanian/)
 - **Instagram**: [Tony_Ashvanian](https://www.instagram.com/tony_ashvanian/)  
-- **Twitter**: [@tony_developer](https://www.twitter.com/tony_developer)  
+- **Twitter**: [@tony_developer](https://www.twitter.com/tony_developer)
+- **Discord**: [tonythedeveloper](https://discord.com)
 
 ---
 
